@@ -2,19 +2,24 @@
 
 #### My name is Karl Makepeace and I am proteomics scientist currently based in Victoria, B.C., Canada
 
-- 🌎 Originally from northern British Columbia, Canada 🍁
-- 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based proteomics ✨📊
-- 💻 Previously at [University of Victoria-Genome B.C. Proteomics Centre](https://www.proteincentre.com/) as a Bioinformatician 👨‍💻 and a Research Technician 👨‍🔬
-- 🔍 Looking for employment opportunities (industry or academic) that require a combination of mass spec., proteo(genom)ic, and bioinformatic skillsets.
+- 🌎 Originally from "The North" of British Columbia, Canada 🍁
+- 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based structural proteomics ✨📊
+- 💻 Previously at [University of Victoria-Genome B.C. Proteomics Centre](https://www.proteincentre.com/) as Bioinformatician 👨‍💻 and Research Technician 👨‍🔬
+- 🔍 Looking for research and development opportunities that require a combination of mass spec., proteo(genom)ic, and bioinformatic skillsets.
 
 #### My research focus and interests:
-- 💻 bioinformatics and programming
 - 🧩 protein structure and structural proteomics
 - 🔗 protein-protein interaction networks
 - 🧬 genetic variants and proteogenomic analyses
+- 💻 bioinformatics and programming
 - ⚙️ workflow/toolchain/method development
 
-👨‍💻 I code primarily in R and VB(A)
+👨‍💻 I code primarily in R and VB(A)/.net
+<!-- 🐍 learning Python b/c it's eating the world -->
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/r-project.svg" width="32" height="32">
 
 
 <!--
