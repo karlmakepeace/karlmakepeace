@@ -16,11 +16,10 @@
 
 👨‍💻 I code primarily in R and VB(A)/.net
 <!-- 🐍 learning Python b/c it's eating the world -->
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50">
+<!-- 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/r-project.svg" width="32" height="32">
-
+-->
 
 <!--
 - 🌱 My current goal is to complete a proteogenomic-focused R package and make it available on [CRAN](https://cran.r-project.org/) (or [Bioconductor](https://bioconductor.org/))
