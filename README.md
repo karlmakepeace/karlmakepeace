@@ -5,7 +5,7 @@
 - 🌎 Originally from "The North" of British Columbia, Canada 🍁
 - 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based structural proteomics ✨📊
 - 💻 Previously at [University of Victoria-Genome B.C. Proteomics Centre](https://www.proteincentre.com/) as Bioinformatician 👨‍💻 and Research Technician 👨‍🔬
-- 🗽 Incoming postdoc at Columbia Univeristy in the City of New York
+- 🗽 Postdoc 👨‍⚕ at Columbia Univeristy in the City of New York
 
 #### My research focus and interests:
 - 🧩 protein structure and structural proteomics
