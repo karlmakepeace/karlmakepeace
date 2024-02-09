@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Karl Makepeace and I am proteomics scientist currently based in Victoria, B.C., Canada
+#### My name is Karl Makepeace and I am proteomics scientist currently based in Manhattan/NYC.
 
 - 🌎 Originally from "The North" of British Columbia, Canada 🍁
 - 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based structural proteomics ✨📊
@@ -8,13 +8,14 @@
 - 🗽 Postdoc 👨‍⚕ at Columbia Univeristy in the City of New York
 
 #### My research focus and interests:
+- ⚖️ quantitative & clinical proteomics
 - 🧩 protein structure and structural proteomics
 - 🔗 protein-protein interaction networks
 - 🧬 genetic variants and proteogenomic analyses
 - 💻 bioinformatics and programming
 - ⚙️ workflow/toolchain/method development
 
-👨‍💻 I code primarily in R and VB(A)/.net
+<!-- 👨‍💻 I code primarily in R and VB(A)/.net -->
 <!-- 🐍 learning Python b/c it's eating the world -->
 <!-- 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="32" height="32">
