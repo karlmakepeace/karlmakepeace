@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Karl Makepeace and I am proteomics scientist currently based in Manhattan/NYC.
+#### My name is Karl Makepeace and I am a proteomics scientist currently based in Manhattan/NYC.
 
 - 🌎 Originally from "The North" of British Columbia, Canada 🍁
 - 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based structural proteomics ✨📊
