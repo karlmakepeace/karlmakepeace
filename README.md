@@ -1,30 +1,18 @@
 ### Hi there 👋
 
 #### My name is Karl Makepeace and I am a proteomics scientist currently based in Manhattan/NYC.
-
-- 🌎 Originally from "The North" of British Columbia, Canada 🍁
+- 🏢 Postdoctoral Research Scientist 👨‍⚕ at Columbia Univeristy in the City of New York 🗽
 - 🎓 Ph.D. Biochemistry w/ focus on mass spectrometry-based structural proteomics ✨📊
-- 💻 Previously at [University of Victoria-Genome B.C. Proteomics Centre](https://www.proteincentre.com/) as Bioinformatician 👨‍💻 and Research Technician 👨‍🔬
-- 🗽 Postdoc 👨‍⚕ at Columbia Univeristy in the City of New York
+- 🚩 Previously at [University of Victoria-Genome B.C. Proteomics Centre](https://www.proteincentre.com/) as Bioinformatician 👨‍💻 and Research Technician 👨‍🔬
+- 🌎 Originally from "[The Peace](https://maps.app.goo.gl/xbQKXPmTMUawnahK8)" (Northeast British Columbia, Canada) 🍁
 
 #### My research focus and interests:
 - ⚖️ quantitative & clinical proteomics
-- 🧩 protein structure and structural proteomics
+- 🧩 protein structure & structural proteomics
 - 🔗 protein-protein interaction networks
-- 🧬 genetic variants and proteogenomic analyses
-- 💻 bioinformatics and programming
+- 🧬 genetic variants & proteogenomic analyses
+- 💻 bioinformatics & programming
 - ⚙️ workflow/toolchain/method development
-
-<!-- 👨‍💻 I code primarily in R and VB(A)/.net -->
-<!-- 🐍 learning Python b/c it's eating the world -->
-<!-- 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/r-project.svg" width="32" height="32">
--->
-
-<!--
-- 🌱 My current goal is to complete a proteogenomic-focused R package and make it available on [CRAN](https://cran.r-project.org/) (or [Bioconductor](https://bioconductor.org/))
--->
 
 <!--
 **karlmakepeace/karlmakepeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
